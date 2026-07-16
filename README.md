@@ -310,3 +310,4 @@ INSERT INTO notification_settings (user_id, weather_notification, price_notifica
 (1, TRUE, TRUE),
 (2, TRUE, FALSE);
 
+AKSES: :  localhost/greenova/index.php (akses dengan menyalakan XAMPP dan start Apache, MySQL)
